@@ -26,8 +26,8 @@
 <p id="socialIcons">
     <a href="mailto:xingxingmofashu@outlook.com">
         <img alt="Gmail" src="https://img.shields.io/badge/xingxingmofashu-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://twitter.com/xingxingmofashu" alt="Twitter">
-        <img src="https://img.shields.io/badge/-xingxingmofashu-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
+    <a href="https://x.com/xingxingmofashu" alt="Twitter">
+        <img src="https://img.shields.io/badge/-xingxingmofashu-1DA1F2?style=flat-square&logo=x&logoColor=1DA1F2&labelColor=000" /></a>
     <a href="https://instagram.com/xingxingmofashu" alt="Instagram">
         <img src="https://img.shields.io/badge/-xingxingmofashu-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
