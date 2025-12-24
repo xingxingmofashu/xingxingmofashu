@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I am **xingxingmofashu**
-- 🌱 I’m currently learning Vue & Typescript
 
 ### 🛠 I code using
 
